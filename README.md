@@ -47,3 +47,9 @@ last.fm. You can get more information at https://www.last.fm/api
 ### ScreenShots
 
 
+ <img src="https://github.com/therealsanjeev/GreedyGame/blob/master/screenshot/Screenshot_1674630797.png" width="200" >
+ <img src="https://github.com/therealsanjeev/GreedyGame/blob/master/screenshot/Screenshot_1674630801.png" width="200" >
+ <img src="https://github.com/therealsanjeev/GreedyGame/blob/master/screenshot/Screenshot_1674630805.png" width="200" >
+ <img src="https://github.com/therealsanjeev/GreedyGame/blob/master/screenshot/Screenshot_1674630830.png" width="200" >
+
+
